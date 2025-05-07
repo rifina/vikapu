@@ -2,7 +2,7 @@
 
 Welcome to Vikapu app for Android!
 
-This is an Android app developed by ASHUZA KUDERHA Rifin.
+This is an Android app developed by Vikapu.Shop
 
 As an avid Android user myself, I take privacy very seriously.
 I know how frustrating it is when apps collect your data without your knowledge.
@@ -25,6 +25,6 @@ I hereby state, to the best of my knowledge and belief, that I have not programm
 If you find any security vulnerability that has been inadvertently caused by me, or have any question regarding how the app protectes your privacy, please send me an email or post a discussion on GitHub, and I will surely try to fix it/help you.
 
 Yours sincerely,  
-Ashuza Kuderha Rifin.  
+Vikapu.Shop  
 Bukavu, DR Congo.  
-rifinashuza.kuderha@gmail.com
+contact@vikapu.com
